@@ -1,0 +1,17 @@
+
+
+.header-home{
+    background-image: linear-gradient(rgba(0, 0, 0, 0.321)) , url(../image/parallax-bg-01.jpg);
+}
+
+.about-home{
+    background-image: linear-gradient(#00000052) , url(../image/parallax-bg-02.jpg);
+}
+
+.work-home{
+    background-image: linear-gradient(#0000007d) , url(../image/parallax-bg-04.jpg);
+}
+
+.contact-home{
+     background-image: linear-gradient(#0000007d) , url(../image/parallax-bg-05.jpg);
+}
